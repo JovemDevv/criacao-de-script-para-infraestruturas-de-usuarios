@@ -1,3 +1,3 @@
-# recordacao-de-memorias
+# criacao-de-script-para-infraestruturas-de-usuarios
 
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano. Projeto feito no evento ignite da rocketseat.
+Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente
